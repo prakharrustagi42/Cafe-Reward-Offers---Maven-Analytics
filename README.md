@@ -29,9 +29,9 @@ Offers impact evaluation and **customer sentiment analysis** (How customers reac
 
 **Family Adults Males (Age: 36-59) with 60k-90k income and joined in 2016**
 
-Age Groups: Adults, Family Adults and Elderly
-Income Groups: Low(<60k), middle(60-90k) and High
-Customer Segment: New, Strong (2016-2017) and Loyal(2013-2015)
+ a) Age Groups: Adults, Family Adults and Elderly
+ b) Income Groups: Low(<60k), middle(60-90k) and High
+ c) Customer Segment: New, Strong (2016-2017) and Loyal(2013-2015)
 
 2) Almost 38% of the transactions were offer related, generating $680k in sales, with $162k worth of rewards being availed.
 
