@@ -36,8 +36,8 @@ PROJECT LINK : https://mavenanalytics.io/project/18985
 For offers where DD ratio was <= 1, customers treated the offer as spending $1/day or even lesser. This triggered the thought of the transaction being reasonable/justifiable (as most customers are middle age) and the offer being an added bonus.
 
 **RECOMMENDATION:**
-**a)** Offers formulation for future should follow the DD ratio rule of the ratio being less than or equal to 1.
 
+**a)** Offers formulation for future should follow the DD ratio rule of the ratio being less than or equal to 1.
 **b)**  For the first two weeks, only informational offers should be sent (as they have substantial view rate and no reward amount), and as we progress towards the 15th day, bogo and discount offers should be sent through all channels every 3 and 5 days.
 
 
